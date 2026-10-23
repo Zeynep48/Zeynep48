@@ -10,10 +10,7 @@
 
 Yazılım geliştiriciyim ve öğrenciyim. İşletmeler için web siteleri, e-ticaret çözümleri ve mobil uygulamalar geliştiriyorum.
 
-**🚀 Projeler**
-- **PureScan AI** — Kozmetik içerik listesini fotoğraftan okuyup yapay zekâ ile yorumlayan iOS uygulaması *(geliştiriliyor)*
-- **Solakoğlu Winsa Pen Fethiye** — Ürün kataloğu ve WhatsApp teklif akışı olan kurumsal tanıtım sitesi
-- **Ankara Ucuz Fotokopi** — İşletme web sitesi · [kaynak kod](https://github.com/Zeynep48/fotokopi_web)
+💼 **İş ve freelance proje tekliflerine açığım.**
 
 <a id="en"></a>
 
@@ -21,10 +18,7 @@ Yazılım geliştiriciyim ve öğrenciyim. İşletmeler için web siteleri, e-ti
 
 I'm a software developer and a student. I build websites, e-commerce solutions and mobile apps for businesses.
 
-**🚀 Projects**
-- **PureScan AI** — iOS app that reads a cosmetic ingredient list from a photo and interprets it with AI *(in development)*
-- **Solakoğlu Winsa Pen Fethiye** — Company showcase website with a product catalog and WhatsApp quote flow
-- **Ankara Ucuz Fotokopi** — Business website · [source code](https://github.com/Zeynep48/fotokopi_web)
+💼 **Open to job opportunities and freelance projects.**
 
 ---
 
